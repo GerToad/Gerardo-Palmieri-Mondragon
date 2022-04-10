@@ -1,4 +1,3 @@
-# Gerardo-Palmieri-Mondragon
 <h1 align="center">Hi 👋, I'm Gerardo</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
 
