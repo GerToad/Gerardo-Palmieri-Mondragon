@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gerardo</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
 
-- 🔭 I’m currently working on **a simple to-do list**
+- 🔭 I’m currently working on **a simple react web-scraper consuming an API**
 
 - 🌱 I’m currently learning **some frameworks for front-end and back-end**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GerToad](https://github.com/GerToad)
 
-- 💬 Ask me about **Angular and Symfony**
+- 💬 Ask me about **Angular and Symfony and maybe a little bit of react**
 
 - 📫 How to reach me **theyayo47@gmail.com**
 
